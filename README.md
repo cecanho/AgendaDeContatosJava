@@ -1,5 +1,5 @@
 # Agenda de contatos JAVA
-<p>Olá, este é um curso de extensão para aprender JAVA. Certificados entrem em contato com http://unicep.edu.br/rioclaro</p>
+<p>Olá, este é um curso de extensão para aprender JAVA. Certificados (total de 10 horas) entrem em contato com http://unicep.edu.br/rioclaro</p>
 
 <h3> Apresentação do Curso </h3>
 <p>A linguagem de programação JAVA, segundo o site https://www.brasilcode.com.br/melhores-linguagens-de-programacao-para-aprender-em-2021/ é a terceira linguagem de programação mais utilizada no mundo, isso se dá por sua versatilidade. Esta “é uma característica importante e que não deve deixar de ser citada, é possível desenvolver sistemas, aplicativos mobile, jogos e até mesmo grandes servidores de back-end”.</p>
@@ -28,4 +28,4 @@
 
 <p>Possui graduação em Sistemas de Informação - Faculdades Integradas Claretianas (2004), licenciado em informática pelo Centro Paula Souza - FATEC de Americana e é pós-graduado em Tecnologias e Educação a Distância pela UNICID. Atualmente é professor da ASSER (Associação de Escolas Reunidas) e administra o sistema MOODLE implantado nesta instituição. Tem experiência na área de Ciência da Computação, com ênfase em Sistemas de Informação.</p>
 
-<p>prof.cecanho@gmail.com</p>
+<p>cecanho@gmail.com</p>
