@@ -23,9 +23,8 @@
 <li> Aula 09: Criação de uma View com o framework WindowBuilder. </li>
 </ul>
 
-<h3> Autor </h3>
-<p><code>Prof. Esp. Cristiano José Cecanho</code></p>
+<h3>Sobre</h3>
+Professor Cristiano José Cecanho é formado em Sistemas de Informação (2004) pelas faculdades Claretianas, especialista em Tecnologias e Educação a Distância, programador em linguagens como JAVA, PHP, PASCAL, C, C++, Android, com conhecimentos em SQL para bancos de dados como MySQL, MS SQL Server e Firebird.
+<h3>Vídeo de apoio/apresentação</h3>
+<a href="https://www.youtube.com/user/crispdg">Prof. Cristiano José Cecanho</a>
 
-<p>Possui graduação em Sistemas de Informação - Faculdades Integradas Claretianas (2004), licenciado em informática pelo Centro Paula Souza - FATEC de Americana e é pós-graduado em Tecnologias e Educação a Distância pela UNICID. Atualmente é professor da ASSER (Associação de Escolas Reunidas) e administra o sistema MOODLE implantado nesta instituição. Tem experiência na área de Ciência da Computação, com ênfase em Sistemas de Informação.</p>
-
-<p>cecanho@gmail.com</p>
